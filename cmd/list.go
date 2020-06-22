@@ -27,7 +27,7 @@ import (
 	"os"
 
 	"github.com/flopp/go-findfont"
-	"github.com/golang/freetype/truetype"
+	"github.com/beta/freetype/truetype"
 	"github.com/spf13/cobra"
 )
 
